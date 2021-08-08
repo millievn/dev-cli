@@ -1,0 +1,28 @@
+{
+  "templates": [
+    {
+      "name": "nextjs-graphql-apollo",
+      "url": "qiwang97/nextjs-graphql-apollo-template",
+      "desc": "在 Nextjs 中使用 graphql",
+      "keywords": ["nextjs", "graphql"]
+    },
+    {
+      "name": "react-standard",
+      "url": "qiwang97/react-template",
+      "desc": "react 项目基础配置",
+      "keywords": ["react"]
+    },
+    {
+      "name": "taro-feishu",
+      "url": "qiwang97/template-feishu",
+      "desc": "Taro 开发飞书小程序",
+      "keywords": ["miniapp", "taro"]
+    },
+    {
+      "name": "antd-pro-tailwindcss",
+      "url": "qiwang97/antd-pro-tailwindcss-template",
+      "desc": "Antd-Pro + tailwindcss",
+      "keywords": ["react", "antd"]
+    }
+  ]
+}
